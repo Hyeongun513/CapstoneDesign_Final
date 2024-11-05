@@ -48,3 +48,16 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## 업로드 내역
+
+- 최초 업로드 : 24.09.13
+- 2차 업로드 : 24.09.29
+- 3차 업로드 : 24.10.08
+- 4차 업로드 : 24.10.15
+- 5차 업로드 : 24.10.21
+- 6차 업로드 : 24.10.22
+- 7차 업로드 : 24.10.24
+- 8차 업로드 : 24.10.26
+- 9차 업로드 : 24.10.29
+- 10차 업로드 : 24.11.05
