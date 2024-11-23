@@ -48,3 +48,25 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## 업로드 내역
+
+- 최초 업로드 : 24.09.13
+- 2차 업로드 : 24.09.29
+- 3차 업로드 : 24.10.08
+- 4차 업로드 : 24.10.15
+- 5차 업로드 : 24.10.21
+- 6차 업로드 : 24.10.22
+- 7차 업로드 : 24.10.24
+- 8차 업로드 : 24.10.26
+- 9차 업로드 : 24.10.29
+- 10차 업로드 : 24.11.05
+- 11차 업로드 : 24.11.09
+- 12차 업로드 : 24.11.13
+- 13차 업로드 : 24.11.17
+- 14차 업로드 : 24.11.18
+- 15차 업로드 : 24.11.20
+- 16차 업로드 : 24.11.21
+
+## 프로젝트 개요
+- 노션(https://jolly-animal-871.notion.site/13c2bc94be2880b9b7d1e2b6eaa81501)
