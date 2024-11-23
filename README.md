@@ -67,6 +67,7 @@ Join our community of developers creating universal apps.
 - 14차 업로드 : 24.11.18
 - 15차 업로드 : 24.11.20
 - 16차 업로드 : 24.11.21
+- 17차 업로드 : 24.11.23
 
 ## 프로젝트 개요
 - 노션(https://jolly-animal-871.notion.site/13c2bc94be2880b9b7d1e2b6eaa81501)
